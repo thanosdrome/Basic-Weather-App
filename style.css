@@ -59,6 +59,7 @@ main .temperature figcaption{
 }
 .main .description{
     padding: 10px 0 30px;
+    text-transform: capitalize;
 }
 main ul{
     list-style: none;
