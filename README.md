@@ -1,6 +1,8 @@
 # Weather App 🌦️
 
 A simple, sleek, and responsive weather application that fetches real-time weather data using the OpenWeather API.
+![image](https://github.com/user-attachments/assets/98b3733c-f158-4c53-a360-648ebdd70e3c)
+
 
 ## Features ✨
 
